@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ML.
+- 🔭 I’m currently working on ML
 - 🌱 I’m currently learning ML
-- 👯 I’m looking to collaborate on ML.
+- 👯 I’m looking to collaborate on ML
 - 💬 Ask me about ML Web Development
 - 📫 How to reach me: sarojpedada@gmail.com
-- 😄 Pronouns: he him
+- 😄 Pronouns: he/him
